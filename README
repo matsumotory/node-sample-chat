@@ -1,0 +1,5 @@
+npm install express socket.io ejs
+
+node app.js
+
+http://example.com:3000/
